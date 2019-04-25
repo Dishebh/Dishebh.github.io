@@ -431,7 +431,7 @@ ul.ml-auto {
 /**************************************************************/
 
 #music {
-  background: url(music.JPG) no-repeat;
+  background: url('music.JPG') no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
