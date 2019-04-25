@@ -115,7 +115,7 @@ ul.ml-auto {
   font-weight: 300;
   text-align: center;
   margin-top: 30px; }
-  
+
 /*****************************************************************/
 /*****************************************************************/
 
@@ -123,7 +123,7 @@ ul.ml-auto {
 	margin-top: -450px;
 }
 
-  
+
 #ABOUT img {
     /*width: 100%;
     height: 100%;*/
@@ -131,7 +131,7 @@ ul.ml-auto {
     border: solid 3px #faac01;
     box-sizing: border-box;
 	margin-left: 10rem;
-	
+
 	}
   #ABOUT .my-info {
     margin: 0;
@@ -173,7 +173,7 @@ ul.ml-auto {
     color: white;
     border: 1px solid #2c2e33;
     transform: rotate(360deg); }
-	
+
 /*****************************************************************/
 /*****************************************************************/
 
@@ -220,7 +220,7 @@ ul.ml-auto {
   width: 3px;
   height: 100%;
   z-index: 2; }
-  
+
 /*****************************************************************/
 /*****************************************************************/
 .card {
@@ -253,7 +253,7 @@ ul.ml-auto {
 	z-index: 1;
 	border-radius: 5px;
     box-shadow: 5px 5px 5px 5px #3b4652;
-	
+
 }
 
 .lead-objective-hl {
@@ -270,11 +270,11 @@ ul.ml-auto {
 
 .highlight {
   color: #faac01; }
-	
+
 .my-information .myInfo-icon {
   color: #faac01;
   font-size: 2.8rem; }
-  
+
 .myForm {
   margin: 10px 0px 30px;
   box-shadow: 0 0 25px rgba(0, 0, 0, 0.9);
@@ -295,19 +295,19 @@ ul.ml-auto {
     -o-transition: all 1s ease-in-out;
     outline: none !important;
     margin-right: 5px; }
-	
+
 .my-information {
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
   padding: 10px;
   margin-bottom: 10px;
   margin-top: 10px; }
-  
+
 .my-information h5 {
   color: #353a46; }
 
 .my-information p {
   font-size: 15px; }
-  
+
 /**************************************************************/
 /**************************************************************/
 
@@ -361,7 +361,7 @@ ul.ml-auto {
 @keyframes animate-positive {
   0% {
     width: 0; } }
-	
+
 /**************************************************************/
 /**************************************************************/
 
@@ -404,7 +404,7 @@ ul.ml-auto {
   #achievement .btn-achievement:visited {
     outline: none !important;
     border: none !important; }
-	
+
 /**************************************************************/
 /**************************************************************/
 
@@ -415,34 +415,34 @@ ul.ml-auto {
   background-attachment: fixed;
   margin: 0;
   color: #eee; }
- 
+
 #steins-gate .sgOverlay {
     background: rgba(0, 0, 0, 0.4);
     padding: 35px 0 30px; }
-	
+
 #steins-gate p {
     font-size: 1.2rem;
     color: rgba(202, 197, 197, 0.9); }
   #steins-gate h4 {
     font-size: 1.7rem;
     color: #faac01; }
-	
+
 /**************************************************************/
 /**************************************************************/
 
 #music {
-  background: url('music.JPG') no-repeat;
+  background: url('music.jpg') no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
   color: #eee;
   margin-top: 0;
   }
- 
+
 #music .musicOverlay {
     background: rgba(0, 0, 0, 0.4);
     padding: 35px 0 30px; }
-	
+
 #music p {
     font-size: 1.2rem;
     color: rgba(202, 197, 197, 0.9); }
@@ -460,18 +460,18 @@ ul.ml-auto {
   background-attachment: fixed;
   margin: 0;
   color: #eee; }
- 
+
 #believe .believeOverlay {
     background: rgba(0, 0, 0, 0.4);
     padding: 35px 0 30px; }
-	
+
 #believe p {
     font-size: 1.2rem;
     color: rgba(202, 197, 197, 0.9); }
   #believe h4 {
     font-size: 1.7rem;
     color: #faac01; }
-	
+
 /**************************************************************/
 /**************************************************************/
 
@@ -483,18 +483,18 @@ ul.ml-auto {
   color: #eee;
   height: 600;
   }
- 
+
 #april .aprilOverlay {
     background: rgba(0, 0, 0, 0.2);
     padding: 35px 0 30px; }
-	
+
 #april p {
     font-size: 1.2rem;
     color: rgba(202, 197, 197, 0.9); }
   #april h4 {
     font-size: 1.7rem;
     color: #faac01; }
-	
+
 /**************************************************************/
 /**************************************************************/
 .section-box {
@@ -524,7 +524,7 @@ ul.ml-auto {
 }
 .section-box .accordion .title {
   padding: 12px 20px 8px;
-  background: #eee; 
+  background: #eee;
   box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
   border-radius: 30px;
   cursor: pointer;
@@ -557,23 +557,23 @@ ul.ml-auto {
   letter-spacing: 1px;
 }
 
- 
- 
+
+
 .section-box .accordion .active {
   display: block;
 }
 .section-box .accordion .active .title {
   color: #fff;
-  background: #faac01;  
-  background: linear-gradient(to right, #faac01, #bd9339);  
+  background: #faac01;
+  background: linear-gradient(to right, #faac01, #bd9339);
   box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.2);
 }
-        
-        
+
+
 .section-box .accordion .active .title:after {
   content: '\f068';
 }
-  
+
 /**************************************************************/
 /**************************************************************/
 
@@ -791,7 +791,7 @@ ul.ml-auto {
   background: #fff;
   color: #faac01;
   transition: all 1s ease; }
-  
+
 /**************************************************************/
 /**************************************************************/
 
@@ -801,7 +801,7 @@ ul.ml-auto {
 }
 
 #philosophy-img img {
-	
+
 	border-radius: 5%;
 	box-shadow: 0px 0px 25px #2c2e33;
     border: solid 3px #faac01;
@@ -999,7 +999,7 @@ figure {
     font-size: 12px; }
   #ABOUT .my-info h3 {
     margin-top: 15px !important;
-    margin-bottom: 15px !important; } }      
+    margin-bottom: 15px !important; } }
 
 hr.my-4 {
     padding-bottom: 50px;
