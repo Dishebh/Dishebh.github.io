@@ -476,7 +476,7 @@ ul.ml-auto {
 /**************************************************************/
 
 #april {
-  background: url(april.JPG) no-repeat;
+  background: url('april.jpg') no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
