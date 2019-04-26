@@ -454,7 +454,7 @@ ul.ml-auto {
 /**************************************************************/
 
 #believe {
-  background: url(believe.JPG) no-repeat;
+  background: url('believe.jpg') no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
