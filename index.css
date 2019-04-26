@@ -366,7 +366,7 @@ ul.ml-auto {
 /**************************************************************/
 
 #achievement {
-  background: url(computer.JPG) no-repeat;
+  background: url('computer.jpg') no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
