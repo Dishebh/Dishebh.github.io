@@ -11,6 +11,9 @@ html, body {
     padding: .8rem;
     background: transparent !important;
 }
+#slides {
+  margin-top: -14rem;
+}
 
 .nav-link {
     font-size: 1.1rem !important;
