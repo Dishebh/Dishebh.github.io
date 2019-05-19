@@ -984,6 +984,9 @@ figure {
         font-size: 2em;
         padding: .7rem;
     }
+    #slides {
+      margin-top: auto !important;
+    }
 
 }
 
