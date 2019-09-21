@@ -148,10 +148,12 @@ ul.ml-auto {
     box-sizing: border-box; }
 	#ABOUT .my-info .objective {
       font-size: 14px; }
-    #ABOUT .my-info .info-title {
+    #ABOUT .info-title {
       margin-bottom: 5px;
       border-bottom: 1px dashed #faac01;
-      padding: 10px 5px; }
+      padding: 10px 5px;
+      margin-left: 40px !important;
+     }
     #ABOUT .my-info .name {
       color: #2c2e33;
       font-weight: 600; }
@@ -162,7 +164,9 @@ ul.ml-auto {
     background: #2c2e33 !important;
     width: 15% !important;
     height: 2px !important;
-    margin: 10px auto !important; }
+    margin: 10px auto !important;
+
+   }
   #ABOUT .social-networks {
     margin-top: 35px; }
   #ABOUT .social-networks a.fa {
@@ -1002,17 +1006,33 @@ figure {
 @media only screen and (min-width: 992px) {
   .navbar-light .navbar-collapse  {
     border-top: 1px solid transparent;
-    margin-top: 0px; } }
+    margin-top: 0px; }
+    /*#ABOUT  {
+      font-size: 12px; }
+    #ABOUT .info-title {
+      margin-top: 15px !important;
+      margin-bottom: 15px !important; }*/
+   }
 
 @media only screen and (min-width: 768px) {
   .navbar-light .navbar-collapse  {
     border-top: 1px solid transparent;
-    margin-top: 0px; } }
+    margin-top: 0px; }
+  /*  #ABOUT .info-title {
+      font-size: 12px; }
+    #ABOUT .info-title {
+      margin-top: 15px !important;
+      margin-bottom: 15px !important; }*/
+   }
 
 @media only screen and (max-width: 768px) {
 
   #ABOUT .my-info p {
-    padding-top: 20px; } }
+    padding-top: 20px; }
+    #ABOUT .my-info h3 {
+      margin-top: 15px !important;
+      margin-bottom: 15px !important; }
+  }
 
 @media only screen and (min-width: 576px) {
 
